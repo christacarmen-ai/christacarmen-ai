@@ -34,7 +34,7 @@ A psychology-anchored world model of the research estate itself, with a construc
 
 - *World Models: Lineage, Formalism, Current State, and a Blueprint for a Developmental World Model*, 2026. Manuscript.
 - Ten-paper preprint portfolio in preparation (PsyArXiv-targeted), reported as N-of-1 instrument demonstrations with limitations disclosed in the papers themselves. Headline instrument results: blind-rescore reliability ICC(2,1) = 0.786; a single principal component carrying 77% of variance with all 8 features loading positive; state measured above structure in 96% of 73 paired sessions; a persistent forward-only change-point alarm at +88 days, undetectable at 6-day sampling gaps.
-- Four patent disclosures filed, sole inventor.
+- Four patent disclosures filed, inventor.
 
 ## Methods and Tools
 
