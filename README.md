@@ -4,7 +4,7 @@
 
 Boston, Massachusetts · christacarmen@gmail.com · ORCID [0009-0001-1445-5554](https://orcid.org/0009-0001-1445-5554)
 
-I design, build, and evaluate world models of a domain where ground truth is genuinely hard: human psychological development. Over eighteen months I built an end-to-end research program as a solo scientist and founder: a production measurement platform, a typed graph substrate with ordinal heads and training gates enforced in code, a recursive Bayesian per-person state estimator, and a synthetic-dynamics laboratory whose job is to establish what the model is allowed to claim.
+I design, build, and evaluate world models of a domain where ground truth is genuinely hard: human psychological development. Over eighteen months I built an end-to-end research program as a solo scientist and co-founded: a production measurement platform, a typed graph substrate with ordinal heads and training gates enforced in code, a recursive Bayesian per-person state estimator, and a synthetic-dynamics laboratory whose job is to establish what the model is allowed to claim.
 
 The defining commitment is evaluation discipline: pre-registered gates, held-out-only findings, permutation and structure-free nulls, and reproducibility manifests (config, seed, git SHA) on every result. The working habit underneath all of it: design the falsifier before the finding, and gate architecture behind data volume rather than shipping on promise.
 
