@@ -21,11 +21,11 @@ A 100,000-record synthetic-cohort generator with fully known dynamics, used to v
 **Intelligence-layer network: gated architecture over a typed substrate** (2026)
 Typed, grounding-tagged semantic core: a 127-node consciousness-theory knowledge graph, 44 phenomenological state objects, 8 features, 6 stage bands, 48 contemplative-tradition nodes. CORAL/CORN ordinal regression heads and R-GCN / heterogeneous GraphSAGE components designed, then gated in code: training raises `GateClosed` until 500+ held-out scored exemplars per feature exist, and promotion is blocked until a membership-inference privacy audit passes. Every node requires a grounding register at construction; ungrounded claims cannot enter the model.
 
-**Tessera: production measurement platform** (2026)
+**Tessera/Orienne (Co-Founded): production measurement platform** (2026)
 ~140,000 LOC Python + TypeScript, 8,000+ commits, 11-service Docker deployment with self-hosted observability. Narrative assessment, AI feature extraction, then fully deterministic server-side scoring across 7 developmental frameworks with convergence analysis and report generation; reduces 2-4 hours of trained-practitioner scoring to minutes, every step audited. The third-party frontier model was removed from the measurement loop: a fine-tuned, self-hosted Qwen model performs enum-guided JSON logprob extraction, making the single AI step in scoring reproducible and pinnable to a revision.
 
 **Unified scoring engine v4.1** (2026)
-31,500 LOC Python, 145 tests, React + TypeScript dashboard. Deterministic pipeline from 13 narrative stems across 8 features to a three-role convergence engine (anchor: Commons MHC; validate: Kegan; calibrate: Cook-Greuter/Loevinger), with crosswalks to Kohlberg, Fowler, Torbert, and Gebser.
+31,500 LOC Python, React + TypeScript dashboard. Deterministic pipeline from 13 narrative stems across 8 features to a three-role convergence engine (anchor: Commons MHC; validate: Kegan; calibrate: Cook-Greuter/Loevinger), with crosswalks to Kohlberg, Fowler, Torbert, and Gebser.
 
 **Meta Mind Model: epistemic world model with a global-workspace surface** (2026)
 A psychology-anchored world model of the research estate itself, with a construction-time-enforced workspace schema and a maximal world-state contract with write-back rules; positioned against four verified literature anchors, claiming the meta-cognition and motivation layer the survey literature names as the field's open problem.
