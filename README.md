@@ -45,4 +45,4 @@ A psychology-anchored world model of the research estate itself, with a construc
 
 ## Education
 
-M.A., East-West Psychology, California Institute of Integral Studies (in progress, 2026-2028) · Applied AI and Data Science, MIT Professional Education (2026) · B.A., Auburn University · Apprenticeship in the STAGES developmental framework with Terri O'Fallon, PhD · Six years of contemplative training in the Indo-Tibetan lineage.
+M.A., East-West Psychology, California Institute of Integral Studies (in progress, 2026-2028) · Applied AI and Data Science, Massachusetts Institute of Technology (MIT) Professional Education (2026) · B.A., Auburn University · Training in the STAGES developmental framework with Terri O'Fallon, PhD · Six years of contemplative training in the Indo-Tibetan lineage.
