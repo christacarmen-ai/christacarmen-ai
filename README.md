@@ -25,7 +25,7 @@ Typed, grounding-tagged semantic core: a 127-node consciousness-theory knowledge
 ~140,000 LOC Python + TypeScript, 8,000+ commits, 11-service Docker deployment with self-hosted observability. Narrative assessment, AI feature extraction, then fully deterministic server-side scoring across 7 developmental frameworks with convergence analysis and report generation; reduces 2-4 hours of trained-practitioner scoring to minutes, every step audited. The third-party frontier model was removed from the measurement loop: a fine-tuned, self-hosted Qwen model performs enum-guided JSON logprob extraction, making the single AI step in scoring reproducible and pinnable to a revision.
 
 **Unified scoring engine v4.1** (2026)
-31,500 LOC Python, React + TypeScript dashboard. Deterministic pipeline from 13 narrative stems across 8 features to a three-role convergence engine (anchor: Commons MHC; validate: Kegan; calibrate: Cook-Greuter/Loevinger), with crosswalks to Kohlberg, Fowler, Torbert, and Gebser.
+31,500 LOC Python, React + TypeScript dashboard. Deterministic pipeline from 13 narrative stems across 8 features to a multi-layered convergence engine. 
 
 **Meta Mind Model: epistemic world model with a global-workspace surface** (2026)
 A psychology-anchored world model of the research estate itself, with a construction-time-enforced workspace schema and a maximal world-state contract with write-back rules; positioned against four verified literature anchors, claiming the meta-cognition and motivation layer the survey literature names as the field's open problem.
@@ -41,7 +41,7 @@ A psychology-anchored world model of the research estate itself, with a construc
 **Modeling:** state-space and Bayesian filtering (Kalman), ordinal regression (CORAL/CORN), graph neural network design (R-GCN, GraphSAGE), knowledge graphs, manifold learning, pseudotime and velocity estimation, fixed-point/attractor analysis.
 **Evaluation:** pre-registration, held-out gating, permutation and structure-free nulls, bootstrap CIs, ablation, blind rescoring, reproducibility manifests, membership-inference privacy audits.
 **Engineering:** Python (numpy, scikit-learn, pandas), FastAPI/Flask, React + TypeScript, Docker, Supabase/Postgres + pgvector, Railway/Northflank, LLM fine-tuning and self-hosted deployment (Qwen), uv/ruff toolchain.
-**Domain:** adult developmental psychology (STAGES, Kegan, Cook-Greuter, Commons MHC, Torbert, Kohlberg, Fowler) as the world being modeled.
+**Domain:** adult developmental psychology as the world being modeled.
 
 ## Education
 
